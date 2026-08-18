@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 1200" role="img" aria-labelledby="title desc">
+  <title id="title">Mid-century excursion window poster starter</title>
+  <desc id="desc">A debranded cut-paper carriage window opening onto a simplified landscape.</desc>
+  <rect width="800" height="1200" fill="#2E8C8C"/>
+  <path d="M95 170h610v650H95z" fill="#F2E7C9"/>
+  <g id="subject">
+    <path d="M125 205h550v540H125z" fill="#7FB4D8"/>
+    <circle cx="570" cy="315" r="82" fill="#F5D96C"/>
+    <path d="M125 585 270 455l105 92 120-145 180 183v160H125Z" fill="#2F7358"/>
+    <path d="M125 655c145-70 245-32 325-85 65-43 130-47 225-10v185H125Z" fill="#F28A6B"/>
+    <path d="M145 745c130-95 240-85 340-34 57 29 120 30 170 10" fill="none" stroke="#F2E7C9" stroke-width="38" stroke-linecap="round"/>
+  </g>
+  <path d="M95 170h610v650H95z" fill="none" stroke="#12284B" stroke-width="42"/>
+  <g id="headline" font-family="Arial, sans-serif" text-anchor="middle">
+    <text x="400" y="930" fill="#F2E7C9" font-size="66" font-weight="700">HEADLINE</text>
+    <text x="400" y="985" fill="#F2E7C9" font-size="25" letter-spacing="3">SUPPORT LINE</text>
+  </g>
+  <text id="identity" x="400" y="1110" fill="#12284B" font-family="Arial, sans-serif" font-size="18" letter-spacing="3" text-anchor="middle">CITY LINES • UNOFFICIAL CONCEPT</text>
+</svg>

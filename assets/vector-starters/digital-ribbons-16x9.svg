@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 900" role="img" aria-labelledby="title desc">
+  <title id="title">Digital ribbon campaign starter</title>
+  <desc id="desc">A debranded dark digital screen with luminous route ribbons and a stable headline zone.</desc>
+  <defs>
+    <linearGradient id="blue" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#2B6BFF"/><stop offset="1" stop-color="#7A3BFF"/></linearGradient>
+    <linearGradient id="coral" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#FF5C7A"/><stop offset="1" stop-color="#E93DB8"/></linearGradient>
+  </defs>
+  <rect width="1600" height="900" fill="#0A0A1F"/>
+  <g id="subject" fill="none" stroke-linecap="round">
+    <path d="M-80 690C300 750 365 145 820 330s440 500 870 205" stroke="url(#blue)" stroke-width="122" opacity=".9"/>
+    <path d="M-90 810C315 860 500 275 900 480s365 360 780 205" stroke="url(#coral)" stroke-width="82" opacity=".86"/>
+    <path d="M-50 575C300 630 470 120 875 235s440 325 790 155" stroke="#D9FFF4" stroke-width="20" opacity=".78"/>
+  </g>
+  <rect x="165" y="135" width="650" height="250" rx="18" fill="#0A0A1F" opacity=".94"/>
+  <g id="headline" font-family="Arial, sans-serif" fill="#FFFFFF">
+    <text x="220" y="255" font-size="92" font-weight="700">HEADLINE</text>
+    <text x="225" y="325" font-size="32" letter-spacing="3">SUPPORT LINE</text>
+  </g>
+  <text id="identity" x="1370" y="835" fill="#D9FFF4" font-family="Arial, sans-serif" font-size="20" letter-spacing="3" text-anchor="end">CITY LINES • UNOFFICIAL CONCEPT</text>
+</svg>

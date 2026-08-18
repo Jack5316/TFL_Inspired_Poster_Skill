@@ -1,0 +1,14 @@
+interface:
+  display_name: London Transit Design Studio
+  short_description: Create transport posters, patterns and visual marks
+  default_prompt: Use $create-tfl-inspired-posters to create a London transport-inspired
+    poster, illustration, pattern, or fictional mark.
+  icon_small: assets/icon.svg
+  icon_large: assets/icon.svg
+policy:
+  products:
+  - chatgpt
+  - codex
+  - api
+  - atlas
+  allow_implicit_invocation: true

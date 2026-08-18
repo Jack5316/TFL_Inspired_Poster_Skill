@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 1200" role="img" aria-labelledby="title desc">
+  <title id="title">Photographic colour-band poster starter</title>
+  <desc id="desc">An editable debranded layout for one truthful photograph and a strong campaign band.</desc>
+  <defs>
+    <pattern id="placeholder" width="32" height="32" patternUnits="userSpaceOnUse" patternTransform="rotate(45)">
+      <rect width="16" height="32" fill="#AEB8C5"/>
+      <rect x="16" width="16" height="32" fill="#C9D0D8"/>
+    </pattern>
+  </defs>
+  <rect width="800" height="1200" fill="#FFFFFF"/>
+  <g id="photo-field">
+    <rect width="800" height="820" fill="url(#placeholder)"/>
+    <circle cx="575" cy="250" r="120" fill="#FFFFFF" opacity=".22"/>
+    <path d="M0 700 230 500l130 105 145-180 295 275v120H0Z" fill="#0B1F3A" opacity=".35"/>
+  </g>
+  <rect y="820" width="800" height="290" fill="#173C8F"/>
+  <rect y="820" width="800" height="22" fill="#D33A2C"/>
+  <g id="headline" font-family="Arial, sans-serif" fill="#FFFFFF">
+    <text x="62" y="925" font-size="70" font-weight="700">HEADLINE</text>
+    <text x="65" y="985" font-size="27" letter-spacing="2">SUPPORT LINE</text>
+  </g>
+  <text id="identity" x="65" y="1160" fill="#0B1F3A" font-family="Arial, sans-serif" font-size="18" letter-spacing="3">CITY LINES • UNOFFICIAL CONCEPT</text>
+</svg>

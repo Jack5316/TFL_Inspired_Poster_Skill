@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 1200" role="img" aria-labelledby="title desc">
+  <title id="title">Dimensional type interior poster starter</title>
+  <desc id="desc">A debranded ochre and navy transport interior with an editable extruded headline.</desc>
+  <rect width="800" height="1200" fill="#E3A915"/>
+  <g id="windows" fill="#122557">
+    <path d="M0 70 290 0v330L0 410Z"/>
+    <path d="M440 0h360v275L440 345Z"/>
+  </g>
+  <g opacity=".35" stroke="#46A6AE" stroke-width="8">
+    <path d="m20 180 250-62M470 110l290-70M470 205l270-66"/>
+  </g>
+  <path d="M0 775 800 545v655H0Z" fill="#D8D0C3"/>
+  <path d="M0 790 800 560" stroke="#C62824" stroke-width="18"/>
+  <g id="seat">
+    <path d="M70 1200 160 900l430 210 70 90Z" fill="#46A6AE"/>
+    <path d="m160 900 430 210-25 42-420-204Z" fill="#F4E8CF"/>
+  </g>
+  <rect id="pole" x="300" y="0" width="54" height="1050" rx="18" fill="#122557"/>
+  <g id="headline" font-family="Arial Black, Arial, sans-serif" font-size="116" font-weight="900" letter-spacing="-6" transform="rotate(-15 430 640)">
+    <text x="135" y="625" fill="#C62824" transform="translate(16 18)">HEADLINE</text>
+    <text x="135" y="625" fill="#F4E8CF">HEADLINE</text>
+  </g>
+  <g id="support" font-family="Arial, sans-serif" fill="#122557">
+    <text x="610" y="415" font-size="28" font-weight="700" text-anchor="middle">SUPPORT LINE</text>
+    <text x="52" y="1150" font-size="18" letter-spacing="2">CITY LINES • UNOFFICIAL CONCEPT</text>
+  </g>
+</svg>

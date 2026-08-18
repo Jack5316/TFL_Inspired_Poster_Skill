@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 1200" role="img" aria-labelledby="title desc">
+  <title id="title">Heritage radial poster starter</title>
+  <desc id="desc">An original Art Deco-inspired radial composition with a fictional civic footer.</desc>
+  <rect width="800" height="1200" fill="#F4E8C8"/>
+  <rect x="70" y="160" width="660" height="785" fill="#12284B"/>
+  <g id="rays">
+    <path d="M400 760 82 170h138Z" fill="#F26A21"/>
+    <path d="M400 760 250 170h92Z" fill="#F7C948"/>
+    <path d="M400 760 370 170h62Z" fill="#D62828"/>
+    <path d="M400 760 470 170h92Z" fill="#F7C948"/>
+    <path d="M400 760 592 170h126Z" fill="#F26A21"/>
+  </g>
+  <g id="subject" fill="#F4E8C8">
+    <path d="M130 850h540v85H130z"/>
+    <path d="m190 850 55-185 70 72 72-250 90 180 70-95 70 278Z"/>
+  </g>
+  <g id="headline" font-family="Arial Black, Arial, sans-serif" text-anchor="middle">
+    <text x="400" y="105" fill="#12284B" font-size="64" letter-spacing="7">HEADLINE</text>
+    <text x="400" y="1020" fill="#12284B" font-size="27" letter-spacing="4">SUPPORT LINE</text>
+  </g>
+  <text id="identity" x="400" y="1125" fill="#D62828" font-family="Arial, sans-serif" font-size="18" letter-spacing="3" text-anchor="middle">CITY LINES • UNOFFICIAL CONCEPT</text>
+</svg>
